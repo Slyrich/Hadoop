@@ -12,7 +12,6 @@ This assignment will be comprised of three parts.
 
 (3) Write map-reduce-style programs for computing the zip codes whose mean temperatures are higher than the mean temperatures of both of its neighbors. For the sake of this assignment, the neighboring zip codes of the zip code 'x' are (x+1) mod 1000 and (x-1) mode 1000. The output should be a list of zip codes satisfying this constraint.
 
-Due Date: October 10, 2014
 
 Sample Dataset-1 (2000 records)
 Sample Dataset-2 (10002000 records)
